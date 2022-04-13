@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+body {
+    font: normal 20px Arial;
+    background-color: rgba(0, 100, 0, 0.203);
+}
+
+div#container {
+    max-width: 500px;
+    margin: auto;
+    border: 4mm ridge rgba(0, 128, 0, 0.501);
+    padding: 10px;
+}
+h1 {
+    font-size: 38px;
+    text-align: center;
+}
+input {
+    width: 100px;
+    text-align: center;
+}
+p {
+    display: inline-block;
+}
+p#guessBefore {
+    margin-right: 10px;
+}
+div{
+    margin-bottom: 20px;
+}
